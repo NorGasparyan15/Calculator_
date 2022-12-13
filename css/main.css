@@ -1,0 +1,69 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+main{
+		display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh
+}
+.big{
+	border: black;
+	background:rgba(0,0,0,0.9);
+	width: 400px;
+}
+.input{
+	border: black;
+	background:rgba(28,25,25,0.7);
+	display: flex;
+	align-items: flex-start;
+	width: 100%;
+	color: #DAA520;
+    text-align: end;
+    font-size: 25px;
+    padding: 25px 25px 100px 0  
+
+
+}
+.gic{
+	border:1px solid gray;
+	margin: 15px;
+}
+.sharq{
+	display: flex;	
+	justify-content: space-around;
+	font-size: 25px;
+	padding-bottom:10px 
+}
+
+.blue{
+	color:#87CEFA
+}
+/*.sharq1{
+	border:grey;
+	width: 100px;
+	border-radius: 50% !important	;
+	background: grey;font-size: 25px
+
+
+}*/
+.sharq1 {
+    border: grey;
+    width: 70px;
+    height: 70px;
+    border-radius: 50% !important;
+    background: rgba(28,30,25,1);
+    font-size: 25px;
+}
+.wheat{
+	color: wheat
+}
+.a1{
+	color: black;
+	background: #87CEFA
+}
+
+
